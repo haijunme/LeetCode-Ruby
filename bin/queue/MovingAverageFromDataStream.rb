@@ -27,11 +27,10 @@ class MovingAverage
     @running_sum.to_f / @queue.size
   end
 
-
 end
 
-movingAverage = MovingAverage.new 3
-puts movingAverage.next(1)
-puts movingAverage.next(10)
-puts movingAverage.next(3)
-puts movingAverage.next(5)
+moving_average = MovingAverage.new 3
+puts moving_average.next(1)
+puts moving_average.next(10)
+puts moving_average.next(3)
+puts moving_average.next(5)
