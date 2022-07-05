@@ -12,7 +12,6 @@ class MovingAverage
     @queue = Containers::RubyDeque.new
   end
 
-
 =begin
     :type val: Integer
     :rtype: Float

@@ -5,6 +5,7 @@ module PalindromePermutation
     s.each_byte { |char_code| character_count[char_code - 'a'.ord] += 1 }
     odd_count_encountered = 0
     character_count.each { |count| odd_count_encountered += count % 2 != 0 ? 1 : 0 }
+
     odd_count_encountered <= 1
   end
   module_function :can_permute_palindrome
