@@ -12,6 +12,7 @@ module PalindromePermutation
 
 end
 
+
 puts PalindromePermutation.can_permute_palindrome("code")
 puts PalindromePermutation.can_permute_palindrome("aab")
 puts PalindromePermutation.can_permute_palindrome("carerac")
