@@ -9,7 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
     </content>
-    <orderEntry type="jdk" jdkName="ruby-3.1.2-p20" jdkType="RUBY_SDK" />
+    <orderEntry type="jdk" jdkName="rbenv: 3.1.2" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="algorithms (v1.0.0, ruby-3.1.2-p20) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v2.3.17, ruby-3.1.2-p20) [gem]" level="application" />
