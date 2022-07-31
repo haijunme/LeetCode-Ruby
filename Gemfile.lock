@@ -4,10 +4,11 @@ GEM
     algorithms (1.0.0)
 
 PLATFORMS
+  arm64-darwin-21
   x64-mingw-ucrt
 
 DEPENDENCIES
   algorithms (~> 1.0)
 
 BUNDLED WITH
-   2.3.17
+   2.3.19
